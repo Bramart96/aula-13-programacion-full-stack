@@ -1,0 +1,59 @@
+                                                /*BODY*/
+body{
+    background-color: rgb(184, 235, 245)     
+
+ }
+                                             /*ELEMENTOS*/     
+#home{
+
+height: 100vh;
+width: 100%;
+background-image: url(/css/assets/images/zanahoria.jpg);
+background-size: cover;
+background-position:center;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+position: relative;
+color: black;
+font-size: 1.5rem;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.bienvenido h1{
+    font-size: 3rem;
+    margin: 0;
+    position: relative;
+    top: 250px;
+}
+.bienvenido p{
+    font-size: 1.5 rem;
+    margin: 10px;
+    position: relative;
+    top: 320px;
+}
+
+p{
+    text-align: left;
+  }
+
+
+h1 {
+    color: rgb(29, 120, 134);
+    font-size: 44px;
+    text-align: center;
+  
+}
+h2 {color:  rgb(29, 120, 134);
+    font-size: 24px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+                                                /*SELECTORES*/
+
+
+
+
+                                                /*FOOTER*/
