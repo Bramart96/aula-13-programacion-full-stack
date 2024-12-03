@@ -1,0 +1,30 @@
+/***********************RESET*********************/
+body{
+    background-color: rgb(184, 235, 245)     
+
+ }
+ 
+ /*******************SITE STYLES************/
+
+p{
+    text-align: left;
+  }
+
+
+h1 {
+    color: rgb(29, 120, 134);
+    font-size: 44px;
+    text-align: center;
+  
+}
+h2 {color:  rgb(29, 120, 134);
+    font-size: 24px;
+    text-align: center;
+    background-color: lightblue;
+}
+  
+     /*****************NAVIGATION*********************/ 
+
+
+    /*****************FOOTER*********************/
+
